@@ -1,6 +1,7 @@
 #include <iostream>
 #include <cmath>
- 
+
+// over //
 using namespace std;
 int array[51];
 int total, N; //contador_steps=0;
